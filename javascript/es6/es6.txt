@@ -1,0 +1,6 @@
+1. let & const
+2. use of ``
+3. string methods(startsWith(), endsWith(), includes(), repeat())
+4. arrow function
+5. destructuring
+6. array(methods(find, findIndex) & new kind of loop)
